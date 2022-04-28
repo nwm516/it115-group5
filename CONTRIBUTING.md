@@ -13,15 +13,16 @@ We communicate primarily over GitHub and [Slack](https://app.slack.com/client/T0
 Before you get started, we encourage you to read through our community norms:
 ## Code of Conduct
 
-Please respect the Hello Worlds's purpose and design structure. The design structure is described below. 
+Please respect Code Compare's purpose and design structure. The design structure is described below. 
 Also, the following pages are **NOT** to be added by any contributors:
 
-* index.html
 * README.md
-* CODE_OF_CONDUCT.md
-* LICENSE
 * CONTRIBUTING.md
-
+* License
+* Project Page
+* Bug Reports Project Board
+* Super-linter workflow
+* All project pages and assets
 
 
 ## Environment Details
