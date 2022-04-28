@@ -22,7 +22,6 @@ Also, the following pages are **NOT** to be added by any contributors:
 * Project Page
 * Bug Reports Project Board
 * Super-linter workflow
-* All project pages and assets
 
 
 ## Environment Details
