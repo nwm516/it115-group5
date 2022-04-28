@@ -11,13 +11,29 @@ documentation, or to help out in any other way.
 We communicate primarily over GitHub and [Slack](https://app.slack.com/client/T03BG5C4E6N/C03BUPNA88Z).
 
 Before you get started, we encourage you to read through our community norms:
-## Table of Contents:
+## Code of Conduct
 
-## Code of Conduct:
+Please respect the Hello Worlds's purpose and design structure. The design structure is described below. 
+Also, the following pages are **NOT** to be added by any contributors:
 
-## Environment details:
+* index.html
+* README.md
+* CODE_OF_CONDUCT.md
+* LICENSE
+* CONTRIBUTING.md
 
-## How to submit changes:
 
-## How to report a bug:
 
+## Environment Details
+
+
+## Testing
+
+
+
+## Bug Reports
+
+
+
+
+### Reminders
